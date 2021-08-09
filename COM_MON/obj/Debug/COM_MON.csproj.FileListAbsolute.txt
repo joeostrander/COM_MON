@@ -1,0 +1,11 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csprojAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csproj.GenerateResource.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csproj.CoreCompileInputs.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.AboutBox1.resources
