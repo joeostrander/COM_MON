@@ -98,6 +98,8 @@ namespace COM_MON
                             newPort.Description = porttext;
                             //listPorts.Add(newPort);
                             listPorts.Insert(0, newPort);
+
+                            notifyIcon1.ShowBalloonTip(2000, Application.ProductName, "New Port:\r\n" + portname + " " + porttext, ToolTipIcon.Info);
                         }
                     }
 

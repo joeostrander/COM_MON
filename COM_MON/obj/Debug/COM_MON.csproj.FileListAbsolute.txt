@@ -9,3 +9,14 @@ C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.
 C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.exe
 C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.pdb
 C:\Users\qojmo2\Google Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.AboutBox1.resources
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.exe.config
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.exe
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\bin\Debug\COM_MON.pdb
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csprojAssemblyReference.cache
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.AboutBox1.resources
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.Form1.resources
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.Properties.Resources.resources
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csproj.GenerateResource.cache
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.csproj.CoreCompileInputs.cache
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.exe
+G:\My Drive\DEV\VisualStudio\COM_MON\COM_MON\obj\Debug\COM_MON.pdb
